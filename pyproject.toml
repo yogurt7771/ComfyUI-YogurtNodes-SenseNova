@@ -1,0 +1,11 @@
+[project]
+name = "ComfyUI-YogurtNodes-SenseNova"
+version = "0.1.0"
+description = "SenseNova U1.5 generation, editing, visual Q&A and interleaved generation using native ComfyUI models."
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = ["huggingface_hub>=0.26"]
+
+[tool.comfy]
+DisplayName = "ComfyUI-YogurtNodes-SenseNova"
+Icon = ""

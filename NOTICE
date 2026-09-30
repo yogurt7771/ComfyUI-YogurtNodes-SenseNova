@@ -1,0 +1,6 @@
+SenseNova prompts and inference conventions are adapted from OpenSenseNova/SenseNova-U1,
+Copyright SenseTime, licensed under Apache-2.0.
+https://github.com/OpenSenseNova/SenseNova-U1
+
+Model layers, attention, conditioning and sampling are provided by ComfyUI.
+https://github.com/Comfy-Org/ComfyUI
